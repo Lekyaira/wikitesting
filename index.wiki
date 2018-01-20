@@ -1,0 +1,26 @@
+
+Crafty Horses RPG
+=================
+
+Setting
+-------
+[[timeline|Timeline]]
+[[setting magic|Magic]]
+
+System
+------
+[[Game]]
+[[core|Core]]
+[[Character Creation]]
+[[Species]]
+[[Archetypes]]
+[[Proficiencies]]
+[[Terrain]]
+[[Magic]]
+
+[[2e/index|2e Conversion]] <-- Maybe [just](just) fold these ideas into main system? >
+
+[[srpg/index|Simple RPG]]
+[[srpg-ch/index|Crafty Horses Setting]]
+Save for later? Use heavily modified Keep on the Borderlands instead? -->[[test1/test|Test1 Adventure]]
+[[keepadv/index|Keep on the Borderlands Test1]]
